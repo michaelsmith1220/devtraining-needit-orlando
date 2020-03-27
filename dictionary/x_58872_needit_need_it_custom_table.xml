@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="alm_asset" label="Need It Custom Table" max_length="40" name="x_58872_needit_need_it_custom_table" type="collection">
+        <element default="true" display="true" label="test row" max_length="40" name="test_row" type="boolean"/>
+    </element>
+</database>
